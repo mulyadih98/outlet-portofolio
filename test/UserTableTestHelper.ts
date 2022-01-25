@@ -1,5 +1,5 @@
 /** istanbul ignore file */
-import pool from "../src/Infrastucture/database/postgres/pool";
+import pool from "../src/Infrastructure/database/postgres/pool";
 
 // tslint:disable-next-line: new-parens
 export default new class UserTableTestHelper {
